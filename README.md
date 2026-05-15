@@ -8,7 +8,6 @@
 Building automation systems, AI workflows, backend integrations, and Linux-based tooling.
 </p>
 
-<p align="center">───────</p>
 
 <div align="center">
 
@@ -20,7 +19,6 @@ learning: fastapi, c++, systems design
 
 </div>
 
-<p align="center">───────</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-1A1B26?style=flat&logo=python&logoColor=FFD43B">
