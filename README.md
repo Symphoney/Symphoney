@@ -21,9 +21,9 @@
 <div align="center">
 
 ```cpp
-> building : ai workflows + automation
-> focus    : backend + linux tooling
-> learning : fastapi, c++, systems design
+> building: ai workflows + automation
+> focus: backend + linux tooling
+> learning: fastapi, c++, systems design
 ```
 
 </div>
