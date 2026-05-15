@@ -27,9 +27,9 @@ Building automation systems, AI workflows, backend integrations, and Linux-based
 <br>
 
 ```txt
-> building        : automation systems, AI workflows
-> current focus   : backend engineering + linux tooling
-> learning        : fastapi, c++, systems architecture
+                      > building        : automation systems, AI workflows
+                      > current focus   : backend engineering + linux tooling
+                      > learning        : fastapi, c++, systems architecture
 ```
 
 <br>
