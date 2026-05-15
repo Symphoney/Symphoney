@@ -1,32 +1,23 @@
-# Rija A
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&pause=2000&color=A277FF&center=true&vCenter=true&width=700&lines=backend+systems+developer;ai+workflow+engineer;linux+%26+automation+tooling;building+devnode)](https://git.io/typing-svg)
 
----
+<br>
 
-## Current Focus
+Building automation systems, AI workflows, backend integrations, and Linux-based tooling.
 
-- Python backend engineering
-- AI integrations & workflow systems
-- Linux tooling & Raspberry Pi development
-- APIs & automation
-- Backend architecture
+<br>
 
----
+<p>
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python">
+  <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux">
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi">
+  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker">
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql">
+</p>
 
-## Featured Projects
+<br>
 
-### DevNode
-Portable Raspberry Pi development node with Linux monitoring, SSH tooling, terminal UI, and GPIO integrations.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000">
 
-### QuickML Tour Predictor
-AI-assisted prediction system using Zoho Catalyst QuickML and CRM analytics.
-
-### Meeting Intelligence Bot
-Meeting transcript summarization and NLP workflow integrations using Claude APIs.
-
----
-
-## Tech Stack
-
-Python • JavaScript • Deluge • SQL • FastAPI • Linux • Docker • APIs • AI Integrations
+</div>
