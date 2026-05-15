@@ -10,14 +10,19 @@ Building automation systems, AI workflows, backend integrations, and Linux-based
 
 <p>
   <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python">
+  <img src="https://img.shields.io/badge/C++-111111?style=flat-square&logo=c%2B%2B">
   <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux">
   <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi">
-  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker">
-  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql">
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript">
+  <img src="https://img.shields.io/badge/AI%20Integrations-111111?style=flat-square">
 </p>
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Symphoney&show_icons=true&theme=tokyonight)
+```txt
+> building           : automation systems, AI workflows
+> current focus      : backend engineering + linux tooling
+> learning           : fastapi, c++, systems architecture
+```
 
 </div>
