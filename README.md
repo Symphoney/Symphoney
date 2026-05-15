@@ -12,7 +12,7 @@
 
 <div align="center">
 
-```cpp
+```yaml
 > building: ai workflows + automation
 > focus: backend + linux tooling
 > learning: fastapi, c++, systems design
