@@ -22,7 +22,7 @@
 <div align="center">
 
 ```cpp
-> building      : automation systems, AI workflows
+       > building      : automation systems, AI workflows
 > focus         : backend engineering + linux tooling
 > learning      : fastapi, c++, systems architecture
 ```
