@@ -1,6 +1,6 @@
 # Rija A
 
-Building automation systems, AI workflows, backend integrations, and Linux-based tooling.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&pause=2000&color=A277FF&center=true&vCenter=true&width=700&lines=backend+systems+developer;ai+workflow+engineer;linux+%26+automation+tooling;building+devnode)](https://git.io/typing-svg)
 
 ---
 
