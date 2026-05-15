@@ -1,16 +1,32 @@
-## Hi there 👋
+# Rija A
 
-<!--
-**Symphoney/Symphoney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building automation systems, AI workflows, backend integrations, and Linux-based tooling.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Python backend engineering
+- AI integrations & workflow systems
+- Linux tooling & Raspberry Pi development
+- APIs & automation
+- Backend architecture
+
+---
+
+## Featured Projects
+
+### DevNode
+Portable Raspberry Pi development node with Linux monitoring, SSH tooling, terminal UI, and GPIO integrations.
+
+### QuickML Tour Predictor
+AI-assisted prediction system using Zoho Catalyst QuickML and CRM analytics.
+
+### Meeting Intelligence Bot
+Meeting transcript summarization and NLP workflow integrations using Claude APIs.
+
+---
+
+## Tech Stack
+
+Python • JavaScript • Deluge • SQL • FastAPI • Linux • Docker • APIs • AI Integrations
