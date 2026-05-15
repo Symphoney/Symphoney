@@ -18,6 +18,6 @@ Building automation systems, AI workflows, backend integrations, and Linux-based
 
 <br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Symphoney&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Symphoney&show_icons=true&theme=tokyonight)
 
 </div>
